@@ -1,0 +1,14 @@
+{
+  "name": "greenpeace/planet4-plugin-customcontent",
+  "description": "This repository contains the wordpress plugin which creates custom content type.",
+  "type": "wordpress-plugin",
+  "version": "0.1",
+  "license": "GPL-3",
+  "authors": [
+    {
+      "name": "Greenpeace International",
+      "email": "planet4-group@greenpeace.org"
+    }
+  ],
+  "require": {}
+}
